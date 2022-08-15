@@ -1,1 +1,1 @@
-Here I will attach short code scripts relevant to data analysis
+Here I will attach short Python code scripts relevant to data analysis
